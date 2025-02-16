@@ -14,11 +14,12 @@ This research presents the **design, modeling, and control** of a **self-balanci
 - ✅ **Control Strategies:**
   - **Linear Quadratic Regulator (LQR)** – Model-based optimal control.
   - **Deep Deterministic Policy Gradient (DDPG)** – Model-free reinforcement learning approach.
-  - 
+    
 - ✅ **Simulation & Testing:**
   - MATLAB Simulink for **LQR-based control**.
   - PyBullet physics engine with Python for **deep reinforcement learning**.
   - **Real hardware testing** on a self-built **unicycle prototype**.
+    
 - ✅ **Performance Comparison:** Evaluated **stability, robustness, and external disturbances** for both control approaches.
 
 ## 🛠 **Technologies & Tools**
