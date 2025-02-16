@@ -40,7 +40,7 @@ This research presents the **design, modeling, and control** of a **self-balanci
   -  Balancing: https://youtu.be/fFfvmddeXDI
   -  Manuevering: https://youtu.be/2TRH2SS26qQ
   -  Real Hardware Testing: https://www.youtube.com/shorts/vjdEADPw-SM?feature=share
-  -  
+    
  ## For Deep Reinforcement Learning - DDGP/PPO Bencmarking
  - Simulation in Pybullet: https://youtu.be/C4y_fMJTPMQ?list=TLPQMTYwMjIwMjXG3tWwJhmcEw
  - Sim2Real Transfer Policy & Training: https://youtu.be/344HM9p3oms?list=TLPQMTYwMjIwMjXG3tWwJhmcEw
