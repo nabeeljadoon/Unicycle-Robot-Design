@@ -45,9 +45,8 @@ This research presents the **design, modeling, and control** of a **self-balanci
  - Simulation in Pybullet: https://youtu.be/C4y_fMJTPMQ?list=TLPQMTYwMjIwMjXG3tWwJhmcEw
  - Sim2Real Transfer Policy & Training: https://youtu.be/344HM9p3oms?list=TLPQMTYwMjIwMjXG3tWwJhmcEw
 
-## 📥 **Thesis & Code Repository**
 📄 Read the full **Master’s Thesis**  
-🖥 **Source Code & Simulation Files** 
+🖥 **Source Code & Simulation Files** https://github.com/nabeeljadoon/Unicycle-Balancing-Using-DRL, https://github.com/nabeeljadoon/Unicycle-Balancing-Control
 
 For any questions, please feel free to contact me at nabeeljadoon21@gmail.com I will be happy to answer your queries.
 
