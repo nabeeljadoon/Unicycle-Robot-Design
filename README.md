@@ -3,7 +3,7 @@
 
 ### 📜 **Master’s Thesis by Nabeel Ahmad Khan Jadoon**
 **Master of Engineering in Mechatronics and Machine Intelligence**  
-**Asian Institute of Technology, Thailand - May 2024**
+**Asian Institute of Technology, Thailand and Tokyo Institute of Technology, Japan**
 
 ## 📌 **Thesis Overview**
 This research presents the **design, modeling, and control** of a **self-balancing unicycle robot**, integrating **classical control methods** (LQR) and **deep reinforcement learning (DDPG)** for balance and maneuverability.
