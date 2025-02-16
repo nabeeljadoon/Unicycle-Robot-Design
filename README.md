@@ -49,6 +49,8 @@ This research presents the **design, modeling, and control** of a **self-balanci
 📄 Read the full **Master’s Thesis**  
 🖥 **Source Code & Simulation Files** 
 
-For any questions, please feel free to contact me at nabeeljadoon21@gmail.com I will be happy to answer your qureies.
+For any questions, please feel free to contact me at nabeeljadoon21@gmail.com I will be happy to answer your queries.
 
 I would like to see how it goes further especially, if someone wants to build a system with both discrete (jumping) and continuos control (manuvering). 
+
+Let's unleash the potential of mobility through Robotics together! Happy Learning :)
