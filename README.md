@@ -34,14 +34,11 @@ This research presents the **design, modeling, and control** of a **self-balanci
 - 📈 **Hybrid approaches** combining classical and reinforcement learning methods could enhance unicycle performance.
 
 ## 📥 **Thesis & Code Repository**
-📄 Read the full **Master’s Thesis**: [Link to Thesis PDF]  
-🖥 **Source Code & Simulation Files**: [GitHub Repository Link]
+📄 Read the full **Master’s Thesis**: In folder /Master Thesis  
+🖥 **Source Code & Simulation Files** 
 
 ## 🎯 **Future Work**
 - **Enhance reinforcement learning policy transfer to hardware.**
 - **Develop adaptive control strategies for unstructured environments.**
 - **Extend the approach to multi-wheeled robots and humanoids.**
 
----
-
-This keeps the post **concise, informative, and engaging** while focusing only on the **necessary details** for GitHub. Let me know if you want any modifications! 🚀
